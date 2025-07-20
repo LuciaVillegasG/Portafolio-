@@ -8,3 +8,5 @@ de datos, entrevistas a profundidad y matrices temáticas para identificar patro
 y formular recomendaciones estratégicas. Manejo herramientas como Excel avanzado, SPSS, Power 
 BI, R y ATLAS.ti. Además, destaco por mi capacidad de presentación de resultados, trabajo en equipo, 
 proactividad, compromiso y comunicación asertiva.</div>
+
+![Imagen1](Imagenes/1.jpg)
