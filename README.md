@@ -10,3 +10,4 @@ BI, R y ATLAS.ti. Además, destaco por mi capacidad de presentación de resultad
 proactividad, compromiso y comunicación asertiva.</div>
 
 ![Imagen1](Imagenes/1.jpg)
+<img src="1.jpg" alt="drawing" width="100"/>
