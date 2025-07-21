@@ -12,13 +12,14 @@ Hola, soy Lucía. Me formé como socióloga en la PUCP y me gusta observar cómo
  “Mi casa, mi negocio” fue una propuesta ganadora del reto Mezcladora Home Challenge, centrado en imaginar soluciones habitacionales innovadoras para familias de sectores C y D. Diseñamos una solución de vivienda mixta que permite a las familias generar ingresos desde el hogar y acceder al sistema financiero de forma progresiva.
 Combinamos diseño arquitectónico funcional, estrategias de inclusión financiera y un enfoque participativo centrado en las necesidades reales de las familias. El reto fue una oportunidad para integrar metodologías de diseño de servicios con herramientas de análisis urbano y sensibilidad social.
 
-![diseño estrategico](Imagenes/7.png)
-![diseño de la vivienda](Imagenes/8.png)
-
 ### Lo que hice
 - Co-diseñé la propuesta conceptual, enfocada en las necesidades de familias con ingresos informales.
 - Aporté al análisis de usuario, construcción del caso ejemplo y estructuración narrativa del entregable.
 - Participé en la elaboración de un pitch claro, visual y orientado a viabilidad técnica y social.
+
+![mi casa mi negocio](Imagenes/7.png)
+![diseño de la vivienda](Imagenes/8.png)
+![mockup](Imagenes/10.png)
 
 ### Lo que aprendí
 - Fue mi primer acercamiento a metodologías de innovación aplicada y diseño de servicios. Descubrí el valor de trabajar desde el problema, escuchar sin suposiciones y prototipar pensando en lo posible, no solo en lo ideal.
