@@ -47,6 +47,8 @@ Profundicé en el valor de aplicar una lógica centrada en el usuario al diseño
 ### Resumen del proyecto
 Este estudio explora cómo las personas migrantes —principalmente venezolanas— acceden y habitan el mercado informal de alquiler en Lima Metropolitana. Desde una mirada etnográfica y visual, el proyecto busca mapear patrones de movilidad, condiciones de vivienda, y vínculos entre territorio, exclusión y agencia cotidiana.
 El objetivo es generar evidencia situada sobre las trayectorias urbanas de arrendamiento informal y construir una narrativa visual accesible para tomadores de decisiones, organizaciones sociales y las propias comunidades migrantes.
+![panel informativo](Imagenes/22.jpg)
+![folleto](Imagenes/23.jpg)
 ### Lo que hice
 - Diseñé y apliqué instrumentos cualitativos centrados en el usuario (entrevistas a profundidad y mapeos del espacio habitado).
 - Sistematizé más de 10 entrevistas mediante matrices temáticas, identificando patrones de uso del espacio, estrategias de movilidad y acceso informal a vivienda.
