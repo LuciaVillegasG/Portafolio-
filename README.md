@@ -10,7 +10,8 @@ Hola, soy Lucía. Soy egresada de socióloga de la PUCP y me gusta observar cóm
 
 ### Resumen del proyecto
 “Mi casa, mi negocio” fue una propuesta ganadora del reto La Mezcladora Home Challenge 2025, centrado en imaginar soluciones innovadoras para mejorar el proceso de autoconstrucción de vivienda en contextos urbanos populares. Junto a mi equipo diseñamos una solución de vivienda mixta que permite a las familias generar ingresos desde el hogar y acceder al sistema financiero de forma progresiva.
-Combinamos diseño arquitectónico funcional, estrategias de inclusión financiera y un enfoque participativo centrado en las necesidades reales de las familias. El reto fue una oportunidad para integrar metodologías de diseño de servicios con herramientas de análisis urbano y sensibilidad social.
+Combinamos diseño arquitectónico funcional, estrategias de inclusión financiera y un enfoque participativo centrado en las necesidades reales de las familias. El reto fue una oportunidad para integrar metodologías de diseño de servicios con herramientas de análisis urbano y sensibilidad social.  
+[Link a la presentación](/Doc/Entregable_Micasaminegocio.pdf) 
 
 ![mi casa mi negocio](Imagenes/7.png)
 ![diseño de la vivienda](Imagenes/8.png)
@@ -31,7 +32,9 @@ Este proyecto fue mi primer acercamiento al diseño de servicios y a la lógica 
 
 ### Resumen del proyecto
 Esta propuesta parte de un insight claro: las mujeres jefas de hogar son clave para activar procesos de mejora habitacional, pero los programas actuales no están diseñados para responder a su realidad. A partir de esa premisa, desarrollé un policy brief con foco en usuarios reales, brechas estructurales y rediseño de procesos.  
-La propuesta integra tres frentes: acceso al financiamiento, asistencia técnica accesible y asignación equitativa de recursos. Todo bajo una lógica de progresividad, flexibilidad y escalabilidad urbana. El enfoque fue generar una estrategia viable y centrada en el usuario, que articule diseño, datos y política pública. 
+La propuesta integra tres frentes: acceso al financiamiento, asistencia técnica accesible y asignación equitativa de recursos. Todo bajo una lógica de progresividad, flexibilidad y escalabilidad urbana. El enfoque fue generar una estrategia viable y centrada en el usuario, que articule diseño, datos y política pública.  
+
+[Link a la presentación](Doc/DUM_Presentación.pdf)  
 
 ![panel](Imagenes/100.jpg)
 
@@ -64,7 +67,7 @@ El objetivo es generar evidencia situada sobre las trayectorias urbanas de arren
 Este proyecto me permitió profundizar en la investigación cualitativa desde una mirada aplicada. Aprendí a leer cómo las personas toman decisiones sobre dónde y cómo vivir, incluso en condiciones adversas, y a identificar patrones de comportamiento relacionados con el uso del espacio, el acceso a vivienda y la movilidad urbana.
 Fortalecí mi capacidad para diseñar entrevistas en profundidad, analizar datos cualitativos con criterio estratégico y transformar hallazgos complejos en productos visuales claros y accionables. Esta experiencia me entrenó para entender a las personas en contexto y generar insights útiles para equipos que diseñan servicios, soluciones o políticas desde la perspectiva del usuario.
 
-## “Dios te diría ‘Yo no te hice esclava”: Percepciones del rol de la mujer en una iglesia cristiana de Lima
+## ✝ “Dios te diría ‘Yo no te hice esclava”: Percepciones del rol de la mujer en una iglesia cristiana de Lima
 **Publicación académica y presentación en evento especializado**  
 **Rol:** Coautora del estudio cualitativo  
 **Año:** 2023 - 2024
@@ -72,6 +75,8 @@ Fortalecí mi capacidad para diseñar entrevistas en profundidad, analizar datos
 ### Resumen del proyecto
 Este estudio explora cómo mujeres congregantes de una iglesia evangélica masiva en Lima construyen sus percepciones sobre el rol de la mujer en la vida pública y privada. A través de entrevistas semiestructuradas, analizamos cómo se articulan creencias religiosas, experiencias personales y discursos institucionales en torno a la maternidad, el liderazgo, el trabajo remunerado y la vida en pareja.
 El estudio fue publicado en la revista académica La Colmena (2023) y presentado en el XXIX Coloquio de Estudiantes de Sociología PUCP (2024). El proyecto aporta elementos clave para comprender cómo operan los marcos simbólicos en la toma de decisiones cotidianas, con valor para el diseño de estrategias de comunicación, segmentación cultural y desarrollo de servicios sensibles al contexto.
+
+[Link a la presentación](Doc/COES_MujeresEvangelicas.pdf)  
 
 ![ponencia](Imagenes/200.jpg)
 ### Lo que hice
