@@ -88,3 +88,19 @@ El estudio fue publicado en la revista académica La Colmena (2023) y presentado
 ### Lo que aprendí
 Este proyecto fortaleció mi capacidad para trabajar con información cualitativa densa y convertirla en aprendizajes relevantes para el diseño de soluciones, estrategias narrativas o intervenciones culturales. Aprendí a escuchar con enfoque, detectar tensiones entre creencias y prácticas, y convertir esos matices en insights útiles para equipos que trabajan en marketing, innovación o diseño centrado en valores. También reforcé mi habilidad para comunicar hallazgos complejos con claridad y sensibilidad, adaptando el discurso según la audiencia.
 
+## Análisis Financiero Interactivo con SQL y Power BI
+**Rol:** Análisis de datos y visualización interactiva  
+**Año:** 2025
+
+### Resumen del proyecto
+Proyecto enfocado en el análisis y visualización de datos relacionados con ingresos, gastos, ahorro y riesgo financiero, a partir de una base de datos estructurada. Se utilizó SQL para extraer y procesar la información y Power BI para diseñar dashboards interactivos, facilitando la comprensión de patrones y tendencias económicas. Los resultados ofrecen insumos clave para la evaluación de la situación financiera de las familias estudiadas y la identificación de oportunidades de mejora.
+
+![dash](Imagenes/dash.png)
+### Lo que hice
+- Procesé y depuré bases de datos mediante consultas SQL para garantizar calidad y consistencia en la información.
+- Diseñé dashboards dinámicos en Power BI para mostrar de forma clara indicadores financieros clave.
+- Elaboré visualizaciones que permiten comparar ingresos, gastos, ahorro y niveles de riesgo.
+- Interpreté hallazgos y patrones, conectando el análisis técnico con implicancias sociales y económicas.
+
+### Lo que aprendí
+Este trabajo reforzó mis habilidades en análisis de datos, visualización y comunicación de resultados. Profundicé en el uso combinado de SQL y Power BI para transformar datos complejos en representaciones claras y útiles para la toma de decisiones, integrando la dimensión social en el análisis económico.
