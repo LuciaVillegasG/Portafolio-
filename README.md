@@ -95,6 +95,8 @@ Este proyecto fortaleció mi capacidad para trabajar con información cualitativ
 ### Resumen del proyecto
 Proyecto enfocado en el análisis y visualización de datos relacionados con ingresos, gastos, ahorro y riesgo financiero, a partir de una base de datos estructurada. Se utilizó SQL para extraer y procesar la información y Power BI para diseñar dashboards interactivos, facilitando la comprensión de patrones y tendencias económicas. Los resultados ofrecen insumos clave para la evaluación de la situación financiera de las familias estudiadas y la identificación de oportunidades de mejora.
 
+[Link a la presentación](Doc/Comportamiento_financiero.pdf) 
+
 ![dash](Imagenes/dash.png)
 ### Lo que hice
 - Procesé y depuré bases de datos mediante consultas SQL para garantizar calidad y consistencia en la información.
