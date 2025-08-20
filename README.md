@@ -1,5 +1,5 @@
 # Portafolio 
-Hola, soy Lucía. Soy egresada de socióloga de la PUCP y me gusta observar cómo las personas viven, deciden y habitan lo cotidiano. He trabajado en investigación cualitativa y cuantitativa aplicada y he comenzado a explorar caminos en diseño de servicios e innovación, siempre desde una mirada crítica y situada. Creo en la escucha activa, en las preguntas bien hechas y en traducir hallazgos en ideas accionables. Este enfoque me llevó a proponer soluciones que combinan análisis urbano, vivienda, migración y género con metodologías participativas. Una de ellas fue “Mi casa, mi negocio”, propuesta ganadora del reto La Mezcladora Home Challenge, 2025. También desarrollé un policy brief con recomendaciones para el programa Techo Propio, el cual presenté en el Instituto Metropolitano de Planificación. Más abajo puedes ver algunos de los proyectos que marcan el rumbo que estoy construyendo. Estoy en un proceso continuo de crecimiento, explorando nuevas formas de conectar la investigación con soluciones significativas.
+Hola, soy Lucía. Soy egresada de sociología de la PUCP y me gusta observar cómo las personas viven, deciden y habitan lo cotidiano. He trabajado en investigación cualitativa y cuantitativa aplicada y he comenzado a explorar caminos en diseño de servicios e innovación, siempre desde una mirada crítica y situada. Creo en la escucha activa, en las preguntas bien hechas y en traducir hallazgos en ideas accionables. Este enfoque me llevó a proponer soluciones que combinan análisis urbano, vivienda, migración y género con metodologías participativas. Una de ellas fue “Mi casa, mi negocio”, propuesta ganadora del reto La Mezcladora Home Challenge, 2025. También desarrollé un policy brief con recomendaciones para el programa Techo Propio, el cual presenté en el Instituto Metropolitano de Planificación. Más abajo puedes ver algunos de los proyectos que marcan el rumbo que estoy construyendo. Estoy en un proceso continuo de crecimiento, explorando nuevas formas de conectar la investigación con soluciones significativas.
 - 📩 [lucia.villegas@pucp.edu.pe](mailto:lucia.villegas@pucp.edu.pe)  
 - 🔗 [LinkedIn](http://www.linkedin.com/in/luciavillegasguerrero)
 
@@ -12,8 +12,8 @@ Hola, soy Lucía. Soy egresada de socióloga de la PUCP y me gusta observar cóm
 ### Resumen del proyecto
 “Mi casa, mi negocio” fue una propuesta ganadora del reto La Mezcladora Home Challenge 2025, centrado en imaginar soluciones innovadoras para mejorar el proceso de autoconstrucción de vivienda en contextos urbanos populares. Junto a mi equipo diseñamos una solución de vivienda mixta que permite a las familias generar ingresos desde el hogar y acceder al sistema financiero de forma progresiva.
 Combinamos diseño arquitectónico funcional, estrategias de inclusión financiera y un enfoque participativo centrado en las necesidades reales de las familias. El reto fue una oportunidad para integrar metodologías de diseño de servicios con herramientas de análisis urbano y sensibilidad social.  
-[Link a la presentación](/Doc/Entregable_Micasaminegocio.pdf) 
-
+[Link a la presentación](/Doc/Entregable_Micasaminegocio.pdf)  
+[Prototipo en figma](https://www.figma.com/proto/AIvvGLvPkC5omhNQLSvF2q/Practica-de-figma?node-id=20-6&starting-point-node-id=38%3A106)
 ![mi casa mi negocio](Imagenes/7.png)
 ![diseño de la vivienda](Imagenes/8.png)
 ![mockup](Imagenes/10.png)
