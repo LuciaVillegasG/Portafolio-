@@ -13,7 +13,7 @@ Hola, soy Lucía. Soy egresada de sociología de la PUCP y me gusta observar có
 “Mi casa, mi negocio” fue una propuesta ganadora del reto La Mezcladora Home Challenge 2025, centrado en imaginar soluciones innovadoras para mejorar el proceso de autoconstrucción de vivienda en contextos urbanos populares. Junto a mi equipo diseñamos una solución de vivienda mixta que permite a las familias generar ingresos desde el hogar y acceder al sistema financiero de forma progresiva.
 Combinamos diseño arquitectónico funcional, estrategias de inclusión financiera y un enfoque participativo centrado en las necesidades reales de las familias. El reto fue una oportunidad para integrar metodologías de diseño de servicios con herramientas de análisis urbano y sensibilidad social.  
 [Link a la presentación](/Doc/Entregable_Micasaminegocio.pdf)  
-[Prototipo en figma](https://www.figma.com/proto/AIvvGLvPkC5omhNQLSvF2q/Practica-de-figma?node-id=20-6&starting-point-node-id=38%3A106)
+[Prototipo en figma](https://www.figma.com/proto/AIvvGLvPkC5omhNQLSvF2q/Practica-de-figma?node-id=3-2065&starting-point-node-id=3%3A2065&show-proto-sidebar=1)
 ![mi casa mi negocio](Imagenes/7.png)
 ![diseño de la vivienda](Imagenes/8.png)
 ![mockup](Imagenes/10.png)
