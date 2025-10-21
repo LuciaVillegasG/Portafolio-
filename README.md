@@ -3,6 +3,37 @@ Hola, soy Lucía. Soy egresada de sociología de la PUCP y me gusta observar có
 - 📩 [lucia.villegas@pucp.edu.pe](mailto:lucia.villegas@pucp.edu.pe)  
 - 🔗 [LinkedIn](http://www.linkedin.com/in/luciavillegasguerrero)
 
+## ⚡ “Energética” – 2º Puesto en 4to Reto de Innovación Ambiental 
+**Reto:** 4to Reto de Innovación Ambiental – CIDE-PUCP  
+**Rol:** Líder de Research y Codiseñadora de Solución  
+**Año:** 2025 
+
+### Resumen del proyecto 
+Propuesta co-diseñada para el 4to Reto de Innovación Ambiental, enfocada en crear una solución de micromovilidad energética sostenible para campus universitarios. El proyecto consistió en el diseño de un sistema de préstamo de baterías portátiles y puntos de carga, gestionado a través de una aplicación móvil con reservas y canjes. La solución integral incluyó desde la investigación de usuarios hasta el modelo operativo y financiero, logrando obtener el segundo puesto general entre 33 equipos participantes. 
+
+### Lo que hice 
+- Lideré la fase de *research*, ejecutando *benchmarking* de soluciones similares y desarrollando *journey maps* para entender las necesidades de los usuarios.
+- Definí el modelo operativo integral, detallando flujos de servicio, reglas de negocio e inventario necesario.
+- Elaboré el presupuesto del proyecto y un *roadmap* de implementación para los primeros 90 y 180 días.
+- Entregamos el *pitch* final, un prototipo conceptual de la solución y un tablero de métricas clave (adopción, disponibilidad, incidentes).
+
+### Lo que aprendí
+Este reto fue una oportunidad clave para **liderar un proceso de diseño de servicios de principio a fin** bajo presión. Reforcé mis habilidades para traducir hallazgos de investigación (*research*) en un modelo operativo tangible, definiendo flujos, métricas de éxito y un *roadmap* claro. Aprendí a **integrar la viabilidad técnica y financiera** en una propuesta de innovación social.
+
+## 🤖 “Chatbot de Finanzas Personales con n8n y IA” 
+**Rol:** Diseñadora y Desarrolladora  
+**Año:** 2025 
+
+### Resumen del proyecto
+Proyecto de portafolio enfocado en el desarrollo de un chatbot MVP (Producto Mínimo Viable) para el seguimiento de finanzas personales. La solución se integró a Telegram y permite a los usuarios registrar sus gastos diarios utilizando lenguaje natural. Se utilizó la plataforma de automatización n8n para construir y gestionar todos los flujos de trabajo, desde la recepción del mensaje hasta el procesamiento y clasificación de la transacción. 
+
+### Lo que hice 
+- Desarrollé un flujo de automatización en n8n para gestionar la lógica completa del chatbot.
+- Diseñé e implementé la lógica de procesamiento para interpretar el lenguaje natural del usuario (ej. "gasté 20 soles en taxi") y clasificar las transacciones automáticamente.
+- Integré el sistema con la API de Telegram para crear una solución práctica y accesible para el seguimiento financiero personal.
+
+### Lo que aprendí
+Este proyecto me permitió **desarrollar habilidades técnicas en automatización y desarrollo low-code.** Profundicé en el uso de **n8n** para la creación de flujos de trabajo complejos y la **integración con APIs** (Telegram). Fue un ejercicio práctico clave para diseñar la lógica de un producto digital, manejando el procesamiento de lenguaje natural de forma básica para crear una solución funcional y centrada en el usuario.
 
 ## 🏠 Mi casa, mi negocio
 **Reto:** La Mezcladora Home Challenge 2025 – UTEC Ventures  
